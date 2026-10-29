@@ -20,7 +20,8 @@ SPD educator review pending. Not an exam bank or clinical procedure guide.
 3. Visit the HTTPS URL GitHub provides after deployment; confirm the quiz and
    reload progress on your device. Paths are relative for repository subpaths.
 
-Not yet published by this build. No repository or live URL has been created.
+Public demo: https://engot143-oss.github.io/spd-tutor/
+Repository: https://github.com/engot143-oss/spd-tutor
 GitHub Pages terms and limits apply; see PLAN.md. Never add client-side API keys.
 
 ## Privacy and content maintenance
@@ -36,3 +37,4 @@ Public promotion as validated instruction requires qualified educator signoff.
 
 Optional ChatGPT opens only official links; the learner copies a generic prompt
 manually. There is no embedded AI and no API bill from this application.
+
